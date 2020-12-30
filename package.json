@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "version": "0.0.0",
+  "name": "example",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "bin": {
+    "todo": "./todo.sh"
+  },
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
